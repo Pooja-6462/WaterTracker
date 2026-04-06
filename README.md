@@ -1,24 +1,34 @@
-# Water Tracker App
+ # Water Tracker - Daily Water Intake Tracker App
 
-A Daily Water Intake Tracker Android App built using Java and Android Studio.
-
-## Developed By
-- Neha
-- Pooja BT
-- Rashmi
+# About the Project
+Water Tracker is an Android mobile application developed using Java 
+and Android Studio. The app helps users monitor and maintain their 
+daily water intake goals with a modern and intuitive user interface.
 
 ## Features
-- Track daily water intake
-- Circular progress indicator
+- Circular progress indicator for daily water goal tracking
 - Quick add buttons (100ml, 250ml, 500ml)
-- Reminder notifications
-- History tracking
-- SQLite local storage
+- Custom water amount input
+- Daily streak counter to maintain consistency
+- Motivational tips and reminders
+- Local data storage using SQLite database
+- Push notification reminders
+- Intake history tracking
+- Customizable daily water goal
 
-## Tech Stack
-- Java
-- Android Studio
-- SQLite
+##  Tech Stack
+- Language: Java
+- IDE: Android Studio
+- Database: SQLite
+- Notifications: AlarmManager and NotificationManager
 
-## Subject
+##  Screens
+1. Home Screen - Add water intake and view progress
+2. History Screen - View past water intake records
+3. Reminder Screen - Set daily water reminder
+4. Settings Screen - Customize daily water goal
+
+
+
+## 📚 Subject
 Mobile Application Development (MAD) - Group Project
