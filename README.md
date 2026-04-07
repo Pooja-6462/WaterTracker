@@ -1,5 +1,7 @@
  # Water Tracker - Daily Water Intake Tracker App
 
+ ---
+
 # About the Project
 Water Tracker is an Android mobile application developed using Java 
 and Android Studio. The app helps users monitor and maintain their 
