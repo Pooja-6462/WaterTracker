@@ -34,3 +34,4 @@ daily water intake goals with a modern and intuitive user interface.
 
 ## 📚 Subject
 Mobile Application Development (MAD) - Group Project
+Group Members Pooja.BT Rashmi.B Neha kumari.S
